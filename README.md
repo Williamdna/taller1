@@ -44,7 +44,7 @@ biografia
     </section>
     <section id="about">
         <h2>Sobre Mí</h2>
-        <p>Hola, mi nombre es Valeria Cordoba, soy ingeniera ambiental, trabajo en la Gobernación de Cundinamarca, soy una rola apasionada por la lectura, los videojuegos, los juegos de mesa, los deporte y los atardeceres. Crecí en una familia rodeada por hombres, tengo 4 hermanos. Mi color favorito es el azul aguamarina. .</p>
+        <p>Hola, mi nombre es Valeria Cordoba, soy ingeniera ambiental, trabajo en la Gobernación de Cundinamarca, soy una rola apasionada por la lectura, los videojuegos, los juegos de mesa, los deporte y los atardeceres. Crecí en una familia rodeada por hombres, tengo 4 hermanos. Mi color favorito es el azul aguamarina c:. .</p>
     </section>
     <section id="contact">
         <h2>Contacto</h2>
