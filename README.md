@@ -29,7 +29,7 @@ biografia
 </head>
 <body>
     <header>
-        <h1>Bienvenido a Mi Página Web</h1>
+        <h1>Bienvenido a Mi Biografía</h1>
     </header>
     <nav>
         <ul>
@@ -44,11 +44,11 @@ biografia
     </section>
     <section id="about">
         <h2>Sobre Mí</h2>
-        <p>Aquí puedes escribir algo sobre ti mismo o sobre el propósito de la página.</p>
+        <p>Hola, mi nombre es Valeria Cordoba, soy ingeniera ambiental, trabajo en la Gobernación de Cundinamarca, soy una rola apasionada por la lectura, los videojuegos, los juegos de mesa, los deporte y los atardeceres. Crecí en una familia rodeada por hombres, tengo 4 hermanos. Mi color favorito es el azul aguamarina. .</p>
     </section>
     <section id="contact">
         <h2>Contacto</h2>
-        <p>Puedes contactarme a través de mi correo electrónico: <a href="mailto:ejemplo@correo.com">ejemplo@correo.com</a>.</p>
+        <p>Puedes contactarme a través de mi correo electrónico: <a href="jvcs2018ud@gmail.com">ejemplo@correo.com</a>.</p>
     </section>
     <footer>
         <p>&copy; 2024 Mi Página Web</p>
